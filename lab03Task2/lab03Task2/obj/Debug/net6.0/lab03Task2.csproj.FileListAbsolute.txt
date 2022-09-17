@@ -1,0 +1,15 @@
+C:\Users\Вячеслав\source\repos\lab03Task2\lab03Task2\bin\Debug\net6.0\lab03Task2.exe
+C:\Users\Вячеслав\source\repos\lab03Task2\lab03Task2\bin\Debug\net6.0\lab03Task2.deps.json
+C:\Users\Вячеслав\source\repos\lab03Task2\lab03Task2\bin\Debug\net6.0\lab03Task2.runtimeconfig.json
+C:\Users\Вячеслав\source\repos\lab03Task2\lab03Task2\bin\Debug\net6.0\lab03Task2.dll
+C:\Users\Вячеслав\source\repos\lab03Task2\lab03Task2\bin\Debug\net6.0\lab03Task2.pdb
+C:\Users\Вячеслав\source\repos\lab03Task2\lab03Task2\obj\Debug\net6.0\lab03Task2.csproj.AssemblyReference.cache
+C:\Users\Вячеслав\source\repos\lab03Task2\lab03Task2\obj\Debug\net6.0\lab03Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вячеслав\source\repos\lab03Task2\lab03Task2\obj\Debug\net6.0\lab03Task2.AssemblyInfoInputs.cache
+C:\Users\Вячеслав\source\repos\lab03Task2\lab03Task2\obj\Debug\net6.0\lab03Task2.AssemblyInfo.cs
+C:\Users\Вячеслав\source\repos\lab03Task2\lab03Task2\obj\Debug\net6.0\lab03Task2.csproj.CoreCompileInputs.cache
+C:\Users\Вячеслав\source\repos\lab03Task2\lab03Task2\obj\Debug\net6.0\lab03Task2.dll
+C:\Users\Вячеслав\source\repos\lab03Task2\lab03Task2\obj\Debug\net6.0\refint\lab03Task2.dll
+C:\Users\Вячеслав\source\repos\lab03Task2\lab03Task2\obj\Debug\net6.0\lab03Task2.pdb
+C:\Users\Вячеслав\source\repos\lab03Task2\lab03Task2\obj\Debug\net6.0\lab03Task2.genruntimeconfig.cache
+C:\Users\Вячеслав\source\repos\lab03Task2\lab03Task2\obj\Debug\net6.0\ref\lab03Task2.dll
